@@ -1,0 +1,7 @@
+CompileFlags:
+  Add:
+    - -Wno-unused-variable
+    - -Wno-unused-parameter
+
+Diagnostics:
+  UnusedIncludes: None
